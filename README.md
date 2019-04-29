@@ -13,4 +13,4 @@ Implements:
 
 Starts genesis block with a total ammount of 100 coins.
 
-Needs Java 1.8
+Requires Java 1.8.
